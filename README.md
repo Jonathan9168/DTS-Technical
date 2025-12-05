@@ -53,7 +53,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-# Run unit tests
+## Run unit tests
 ```bash
 python manage.py test dts_app
 ```
