@@ -53,6 +53,11 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+# Run unit tests
+```bash
+python manage.py test dts_app
+```
+
 ## The API will be available at:
 
 ```
@@ -145,6 +150,7 @@ Successful Response Example
   ]
 }
 ```
+
 
 # 🌐 Frontend Setup (Vue.js)
 
